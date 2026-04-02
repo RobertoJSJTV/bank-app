@@ -1,0 +1,1 @@
+O sistema pode ser rodado na web, foi utilizado também bootstrap para poder modificar e estilizar melhor a aplicação, para o futuro seria bom melhorar a interface, modificando uma área exclusiva para o usuario ver os seus dados, adicionar contatos para transferências que fiquem salvos para futuras transações.
